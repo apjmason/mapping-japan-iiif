@@ -1,0 +1,110 @@
+{
+  "@context" : "http://iiif.io/api/presentation/2/context.json",
+  "@id" : "https://apjmason.github.io/mapping-japan-iiif/manifests/57365b994281c05644030d29683044b6.json",
+  "@type" : "sc:Manifest",
+  "label" : "1:100,000 Scale Map of Manchuria and Siberia – No. 5: Jiamusi & Birobidzhan",
+  "metadata" : [ {
+    "label" : "Title",
+    "value" : [ "1:100,000 Scale Map of Manchuria and Siberia – No. 5: Jiamusi &amp; Birobidzhan", "滿洲及西伯利十万分一圖佳木斯及ビロビッヂャン五號" ]
+  }, {
+    "label" : "Alternative Title",
+    "value" : [ "饒河", "Raohe" ]
+  }, {
+    "label" : "Description",
+    "value" : "This top-secret military map is a black-and-white printed document, likely produced on high-quality, durable paper suitable for field use. The map is part of a 兵要地誌圖 (Military Strategic Map) series and follows a 1:100,000 scale, providing a high level of detail for strategic and operational planning. It is meticulously labeled with Japanese kanji and katakana, indicating key geographical and military features. Given its military nature, the map may include grid references, contour lines, and strategic annotations, along with precise topographic details. The physical dimensions of similar maps from this era suggest that it would have been approximately 60 cm × 90 cm (24 in × 35 in) when unfolded, allowing for a broad yet detailed view of the mapped region.<br />\n<br />\nThe map covers the Jiamusi (佳木斯) region in Manchuria and the Birobidzhan (ビロビッヂャン) area in the Soviet Jewish Autonomous Oblast, focusing on the Sino-Soviet borderlands along the Amur River. It highlights key transportation routes, rivers, mountainous terrain, and settlements, which were critical for Japanese military operations and intelligence activities. Raohe (饒河), a border town, is prominently featured, suggesting its strategic importance for cross-border surveillance. This map was likely produced between 1935 and 1945, a period marked by Japanese expansion in Manchuria and rising tensions with the Soviet Union. Given the evolving geopolitical landscape, it may have undergone multiple printings and revisions to incorporate new intelligence, military infrastructure developments, and changes in border defenses."
+  }, {
+    "label" : "Creator/agency who created the original map",
+    "value" : "Imperial Japanese Army General Staff Office"
+  }, {
+    "label" : "Date",
+    "value" : "1932-1945"
+  }, {
+    "label" : "Genre",
+    "value" : "<a class=\"resource-link\" href=\"https://hhfinals.dgah.sites.carleton.edu/mapping-layers/s/manchuria-ww2/item-set/1\"><span class=\"resource-name\">Hacking the Humanities Mapping Layers</span></a>"
+  }, {
+    "label" : "Places shown in the map",
+    "value" : "Raohe"
+  }, {
+    "label" : "Language",
+    "value" : [ "Japanese", "Russian", "Chinese" ]
+  }, {
+    "label" : "Contributor",
+    "value" : "Nina, Huizi, Ashley"
+  } ],
+  "thumbnail" : {
+    "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/files/medium/8a1d97515f46db07242ffdda97312211835404a4.jpg",
+    "@type" : "dctypes:Image",
+    "format" : "image/jpeg",
+    "width" : 144,
+    "height" : 200
+  },
+  "viewingDirection" : "left-to-right",
+  "license" : "https://rightsstatements.org/vocab/CNE/1.0/",
+  "attribution" : "Nina, Huizi, Ashley",
+  "related" : {
+    "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/s/manchuria-ww2/item/10",
+    "format" : "text/html"
+  },
+  "seeAlso" : {
+    "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/api/items/10",
+    "format" : "application/ld+json"
+  },
+  "sequences" : [ {
+    "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/10/sequence/normal",
+    "@type" : "sc:Sequence",
+    "label" : "Current Page Order",
+    "viewingDirection" : "left-to-right",
+    "canvases" : [ {
+      "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/10/canvas/p1",
+      "@type" : "sc:Canvas",
+      "label" : "PNG Version",
+      "thumbnail" : {
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/files/medium/8a1d97515f46db07242ffdda97312211835404a4.jpg",
+        "@type" : "dctypes:Image",
+        "format" : "image/jpeg",
+        "width" : 144,
+        "height" : 200
+      },
+      "width" : 5000,
+      "height" : 6944,
+      "images" : [ {
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/10/annotation/p0001-image",
+        "@type" : "oa:Annotation",
+        "motivation" : "sc:painting",
+        "resource" : {
+          "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/14/full/576,800/0/default.jpg",
+          "@type" : "dctypes:Image",
+          "format" : "image/jpeg",
+          "width" : 5000,
+          "height" : 6944,
+          "service" : {
+            "@context" : "http://iiif.io/api/image/2/context.json",
+            "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/14",
+            "profile" : "http://iiif.io/api/image/2/level2.json",
+            "tiles" : [ {
+              "width" : 256,
+              "scaleFactors" : [ 1, 2, 4, 8, 16, 32 ]
+            } ],
+            "width" : 5000,
+            "height" : 6944
+          }
+        },
+        "on" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/10/canvas/p1"
+      } ],
+      "metadata" : [ {
+        "label" : "Title",
+        "value" : "PNG Version"
+      } ],
+      "otherContent" : [ {
+        "@type" : "sc:AnnotationList",
+        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/10544799/047cd8844239e5f8c87c505189de1e64.json",
+        "label" : "Annotations for canvas PNG Version"
+      } ]
+    } ]
+  } ],
+  "service" : {
+    "profile" : "http://iiif.io/api/search/0/search",
+    "@id" : "https://dev.gdmrdigital.com/search-api/1245635613/10544799/57365b994281c05644030d29683044b6/search",
+    "@context" : "http://iiif.io/api/search/0/context.json"
+  }
+}
