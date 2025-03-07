@@ -1,0 +1,80 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "tag2",
+      "@type" : "oa:Tag",
+      "chars" : "tag2"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Test transcription annotation",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Test transcription annotation</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/10544799",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-07T16:10:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741363801787",
+    "dcterms:modified" : "2025-03-07T16:10:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/10/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=134,1000,575,130"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M133.72655,999.66191h287.38301v0h287.38301v64.79148v64.79148h-287.38301h-287.38301v-64.79148z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d8cf7cd1-0693-4d97-befa-97e9799839b1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/10/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "tag1",
+      "@type" : "oa:Tag",
+      "chars" : "tag1"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Test table annotation",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Test table annotation</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1245635613/10544799",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-07T16:09:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741363778369",
+    "dcterms:modified" : "2025-03-07T16:09:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/10/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1087,859,218,258"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1087.17984,859.33355h109.18182v0h109.18182v129.18182v129.18182h-109.18182h-109.18182v-129.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b65834b4-554b-498d-8caa-826163710d26\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/10/canvas/p1"
+    } ]
+  } ],
+  "@id" : "https://apjmason.github.io/mapping-japan-iiif/annotations/047cd8844239e5f8c87c505189de1e64.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
