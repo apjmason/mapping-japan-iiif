@@ -97,7 +97,7 @@
       } ],
       "otherContent" : [ {
         "@type" : "sc:AnnotationList",
-        "@id" : "https://dev.gdmrdigital.com/annotations/1245635613/10544799/047cd8844239e5f8c87c505189de1e64.json",
+        "@id" : "https://github.com/apjmason/mapping-japan-iiif/edit/main/annotations/047cd8844239e5f8c87c505189de1e64.json",
         "label" : "Annotations for canvas PNG Version"
       } ]
     } ]
