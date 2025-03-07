@@ -12,5 +12,12 @@
       "jp" : [ "滿洲及西伯利十万分一圖佳木斯及ビロビッヂャン五號" ]
     },
     "type" : "Manifest"
+  }, {
+    "id" : "https://apjmason.github.io/mapping-japan-iiif/manifests/manchuria-manifest.json",
+    "label" : {
+      "en" : [ "1:100,000 Scale Map of Manchuria and Siberia – No. 5: Jiamusi & Birobidzhan" ],
+      "jp" : [ "滿洲及西伯利十万分一圖佳木斯及ビロビッヂャン五號" ]
+    },
+    "type" : "Manifest"
   } ]
 }
