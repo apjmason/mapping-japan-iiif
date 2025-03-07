@@ -1,0 +1,7 @@
+{
+  "@type" : "sc:Layer",
+  "otherContent" : [ "https://apjmason.github.io/mapping-japan-iiif/annotations/6cefd220a22cdabc52e19913d660a256.json" ],
+  "@id" : "https://apjmason.github.io/mapping-japan-iiif/annotations/collection.json",
+  "label" : "All annotations loaded in apjmason/mapping-japan-iiif project",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
