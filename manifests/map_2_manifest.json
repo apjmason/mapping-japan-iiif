@@ -1,0 +1,197 @@
+{
+  "@context" : "http://iiif.io/api/presentation/3/context.json",
+  "id" : "https://apjmason.github.io/mapping-japan-iiif/manifests/map_2_manifest.json",
+  "type" : "Manifest",
+  "label" : {
+    "en" : [ "1:100,000 Scale Map of Manchuria and Siberia — No. 23: Jiamusi and Birobidzhan\n" ]
+  },
+  "metadata" : [ {
+    "label" : {
+      "en" : [ "Title" ]
+    },
+    "value" : {
+      "en" : [ "1:100,000 Scale Map of Manchuria and Siberia — No. 23: Jiamusi and Birobidzhan<br />\n" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Alternative Title" ]
+    },
+    "value" : {
+      "none" : [ "満洲及西伯利十万分一圖佳木斯及ビロビッヂャン二十三號 " ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Description" ]
+    },
+    "value" : {
+      "none" : [ "The 1:100,000 Map of Manchuria and Siberia — No. 23: Jiamusi and Birobidzhan is a black-and-white printed topographic map, likely produced on thin, durable paper suitable for field use by military personnel. Typical of Japanese military cartography from the early 20th century, the map measures approximately 70 x 50 cm, though exact dimensions may vary by edition. Fine contour lines depict elevation changes, and standardized symbols mark settlements, infrastructure, and natural features. Text is primarily in Japanese, using a combination of kanji and katakana for place names, and the map follows precise cartographic conventions with a clear grid system for navigation. Margins may contain scales, legends, and publication details, and some versions may feature red overprints to indicate updates, corrections, or strategic military notations.<br />\n<br />\nThis map is part of a larger series produced by Imperial Japan during the occupation of Manchuria (1931–1945), designed for strategic and military use in the volatile border regions between Manchukuo (Japanese-occupied Manchuria) and the Soviet Union. Numbered 23 in the series, this sheet specifically covers the area surrounding Jiamusi, an important river port on the Songhua River, and Birobidzhan, located across the Amur River within the Soviet Union’s Jewish Autonomous Oblast. Geographically, the map includes detailed representations of rivers, railways (such as connections to the Trans-Siberian Railway), major and minor roads, urban centers, farmlands, and forested areas. Subsequent reprintings or revisions of the map may reflect updates in infrastructure or military interest, especially as border tensions increased leading up to conflicts like the Battle of Khalkhin Gol in 1939. This map’s careful documentation of both natural and built environments highlights its dual purpose as a navigational tool and a strategic document, revealing Japan’s close surveillance of a region critical to its northern defense and expansionist ambitions." ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Creator/agency who created the original map" ]
+    },
+    "value" : {
+      "none" : [ "Imperial Japanese Army General Staff Office" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Date" ]
+    },
+    "value" : {
+      "none" : [ "1933-1943" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Genre" ]
+    },
+    "value" : {
+      "none" : [ "<a class=\"resource-link\" href=\"https&#x3A;&#x2F;&#x2F;hhfinals.dgah.sites.carleton.edu&#x2F;mapping-layers&#x2F;s&#x2F;manchuria-ww2&#x2F;item-set&#x2F;1\"><span class=\"resource-name\">Hacking the Humanities Mapping Layers</span></a>" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Places shown in the map" ]
+    },
+    "value" : {
+      "none" : [ "滿洲 (Manchuria) and 西伯利 (Siberia), specifically focusing on 佳木斯 (Jiamusi) and ビロビッヂャン (Birobidzhan)." ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Language" ]
+    },
+    "value" : {
+      "none" : [ "Japanese and Russian" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Call number, Catalyst link, or other identifier" ]
+    },
+    "value" : {
+      "none" : [ "<a class=\"uri-value-link\" target=\"_blank\" href=\"https&#x3A;&#x2F;&#x2F;gouldguides.carleton.edu&#x2F;c.php&#x3F;g&#x3D;450573&amp;p&#x3D;10532510\">https://gouldguides.carleton.edu/c.php?g=450573&amp;p=10532510</a>" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Map Set" ]
+    },
+    "value" : {
+      "none" : [ "1:100,000 Map of Manchuria and Siberia (満洲及西伯利十万分一圖)" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Subject" ]
+    },
+    "value" : {
+      "none" : [ "Manchuria—Maps<br />\nSiberia—Maps<br />\nMilitary geography—Manchuria<br />\nMilitary geography—Siberia<br />\nTopographic maps<br />\nJapanese military cartography<br />\nBorder regions—Maps<br />\nJiamusi (China)—Maps<br />\nBirobidzhan (Russia)—Maps<br />\nJapan—Imperial expansion—Maps" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Rights" ]
+    },
+    "value" : {
+      "none" : [ "No known copyright" ]
+    }
+  }, {
+    "label" : {
+      "none" : [ "Contributor" ]
+    },
+    "value" : {
+      "none" : [ "Ziqing Qian, Huizi Cao, Nina Wakabayashi" ]
+    }
+  } ],
+  "requiredStatement" : {
+    "label" : {
+      "none" : [ "Attribution" ]
+    },
+    "value" : {
+      "none" : [ "Ziqing Qian, Huizi Cao, Nina Wakabayashi" ]
+    }
+  },
+  "rights" : "https://rightsstatements.org/vocab/CNE/1.0/",
+  "provider" : [ {
+    "id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/",
+    "type" : "Agent",
+    "label" : {
+      "none" : [ "Mapping Layers: Manchuria and Japan in WW2" ]
+    }
+  } ],
+  "thumbnail" : [ {
+    "id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/files/medium/98bb9eaac28cd31eef6d1b5e2bddd013a1b0898c.jpg",
+    "type" : "Image",
+    "format" : "image/jpeg",
+    "width" : 200,
+    "height" : 144
+  } ],
+  "viewingDirection" : "left-to-right",
+  "seeAlso" : [ {
+    "id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/api/items/12",
+    "type" : "Dataset",
+    "label" : {
+      "none" : [ "Api rest json-ld" ]
+    },
+    "format" : "application/ld+json",
+    "profile" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/api-context"
+  } ],
+  "homepage" : [ {
+    "id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/s/manchuria-ww2/item/12",
+    "type" : "Text",
+    "label" : {
+      "none" : [ "Resource in site: Mapping Layers: Manchuria and Japan in WW2" ]
+    },
+    "format" : "text/html",
+    "language" : [ "en_US" ]
+  } ],
+  "items" : [ {
+    "@context" : "http://iiif.io/api/presentation/3/context.json",
+    "id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/3/12/canvas/p1",
+    "type" : "Canvas",
+    "label" : {
+      "none" : [ "PNG Version of the Map" ]
+    },
+    "metadata" : [ {
+      "label" : {
+        "none" : [ "Title" ]
+      },
+      "value" : {
+        "none" : [ "PNG Version of the Map" ]
+      }
+    } ],
+    "rights" : "https://rightsstatements.org/vocab/CNE/1.0/",
+    "thumbnail" : [ {
+      "id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/files/medium/98bb9eaac28cd31eef6d1b5e2bddd013a1b0898c.jpg",
+      "type" : "Image",
+      "format" : "image/jpeg",
+      "width" : 200,
+      "height" : 144
+    } ],
+    "height" : 5755,
+    "width" : 8000,
+    "items" : [ {
+      "id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/3/12/annotation-page/17",
+      "type" : "AnnotationPage",
+      "items" : [ {
+        "id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/3/12/annotation/17",
+        "type" : "Annotation",
+        "motivation" : "painting",
+        "body" : {
+          "id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/17/full/800,576/0/default.jpg",
+          "type" : "Image",
+          "format" : "image/jpeg",
+          "service" : [ {
+            "id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/17",
+            "type" : "ImageService2",
+            "profile" : "level2"
+          }, {
+            "id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/3/17",
+            "type" : "ImageService3",
+            "profile" : "level2"
+          } ],
+          "height" : 5755,
+          "width" : 8000
+        },
+        "target" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/3/12/canvas/p1",
+        "label" : {
+          "none" : [ "PNG Version of the Map" ]
+        }
+      } ]
+    } ]
+  } ]
+}
