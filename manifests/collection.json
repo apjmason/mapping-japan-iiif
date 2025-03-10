@@ -29,5 +29,9 @@
       "en" : [ "1:100,000 Scale Map of Manchuria and Siberia — No. 23: Jiamusi and Birobidzhan\n" ]
     },
     "type" : "Manifest"
+  }, {
+    "@type" : "sc:Manifest",
+    "@id" : "https://apjmason.github.io/mapping-japan-iiif/manifests/map_2_manifest_v2.json",
+    "label" : "1:100,000 Scale Map of Manchuria and Siberia — No. 23: Jiamusi and Birobidzhan"
   } ]
 }
