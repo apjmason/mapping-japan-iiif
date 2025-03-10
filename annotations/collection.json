@@ -1,6 +1,6 @@
 {
   "@type" : "sc:Layer",
-  "otherContent" : [ "https://apjmason.github.io/mapping-japan-iiif/annotations/047cd8844239e5f8c87c505189de1e64.json" ],
+  "otherContent" : [ "https://apjmason.github.io/mapping-japan-iiif/annotations/047cd8844239e5f8c87c505189de1e64.json", "https://apjmason.github.io/mapping-japan-iiif/annotations/MAP_2_ANNOTATIONS.json" ],
   "@id" : "https://apjmason.github.io/mapping-japan-iiif/annotations/collection.json",
   "label" : "All annotations loaded in apjmason/mapping-japan-iiif project",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
