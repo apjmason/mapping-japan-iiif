@@ -2895,6 +2895,6 @@
       "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
     } ]
   } ],
-  "@id" : "https://dev.gdmrdigital.com/annotations/1240244679/112450713200519099591/43a2d3dc41cd69f8d9c8fd314804d856.json",
+  "@id" : "https://apjmason.github.io/mapping-japan-iiif/annotations/map1_full_annotations.json",
   "@context" : "http://iiif.io/api/presentation/2/context.json"
 }
