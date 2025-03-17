@@ -1,0 +1,2900 @@
+{
+  "@type" : "sc:AnnotationList",
+  "resources" : [ {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaName",
+      "@type" : "oa:Tag",
+      "chars" : "AreaName"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The Jewish Autonomous Oblast (JAO)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The Jewish Autonomous Oblast (JAO)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-07T03:16:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741317379264",
+    "dcterms:modified" : "2025-03-07T03:16:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6085,1409,192,849"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6085.09118,1409.23481h96.24016v0h96.24016v424.51477v424.51477h-96.24016h-96.24016v-424.51477z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_66bace7e-4712-4a7b-a125-7c6d8757bc63\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Water in this place don't freeze and its quality is good, suitable for water supply.&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Water in this place don't freeze and its quality is good, suitable for water supply.&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-10T02:04:37",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741572277686",
+    "dcterms:modified" : "2025-03-10T02:04:37",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2949,1075,137,448"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2948.81901,1074.62678h68.54909v0h68.54909v224.06909v224.06909h-68.54909h-68.54909v-224.06909z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f1f6aad2-9c4b-44dc-9dad-bce4ae0a9e1e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Tree Forest: larches, white birches, quercus serrata (Konara oak), forests with combined trees.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Tree Forest: larches, white birches, quercus serrata (Konara oak), forests with combined trees.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2025-03-10T02:17:27",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741573046987",
+    "dcterms:modified" : "2025-03-10T02:20:07",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1843,1589,92,419"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1842.84901,1588.57951h46.24218v0h46.24218v209.30255v209.30255h-46.24218h-46.24218v-209.30255z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_708f15bd-7e49-4aa4-97a8-bf315931d4ed\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"14.4\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "JiaYin River during the winter freezing period, the ice is in good condition, allowing sleds to pass.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>JiaYin River during the winter freezing period, the ice is in good condition, allowing sleds to pass.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T16:00:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741708844633",
+    "dcterms:modified" : "2025-03-11T16:00:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3344,2913,217,426"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3344.09953,2912.90139h108.45455v0h108.45455v213.18182v213.18182h-108.45455h-108.45455v-213.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a4b55e61-4668-4be1-b916-4618d522c0a1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Shrub Forest with trees taller than 2 meters, difficult for a single soldier to get through.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Shrub Forest with trees taller than 2 meters, difficult for a single soldier to get through.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2025-03-10T00:50:25",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741567825702",
+    "dcterms:modified" : "2025-03-10T02:28:38",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1670,2841,169,633"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1669.69302,2841.05332h84.69804v0h84.69804v316.56422v316.56422h-84.69804h-84.69804v-316.56422z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_24e5573c-c576-45e8-a336-d6e0620461a7\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"15.47934\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "White birches, larches, shrub, thick forest; hard for people and horses to get through.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>White birches, larches, shrub, thick forest; hard for people and horses to get through.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T15:44:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741707893514",
+    "dcterms:modified" : "2025-03-11T15:44:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3506,1783,188,634"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3505.66613,1783.12472h94.0395v0h94.0395v316.94664v316.94664h-94.0395h-94.0395v-316.94664z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_90d33bd1-ca3a-458d-8df4-13e8b405298b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dense mixed forest: Oak trees, but mainly white birches.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dense mixed forest: Oak trees, but mainly white birches.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T18:53:33",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741719213007",
+    "dcterms:modified" : "2025-03-11T18:53:33",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4720,3848,154,397"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4720.40503,3847.76696h76.92727v0h76.92727v198.67273v198.67273h-76.92727h-76.92727v-198.67273z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b71fb45d-255e-4ba0-b4d7-151ef8a8ac1f\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Hard for even a single soldier or horse to travel if not traveling on road.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Hard for even a single soldier or horse to travel if not traveling on road.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-16T02:21:39",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1742091699159",
+    "dcterms:modified" : "2025-03-16T02:21:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6205,4361,156,653"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6205.17755,4360.99491h77.91171v0h77.91171v326.74371v326.74371h-77.91171h-77.91171v-326.74371z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e7835ee1-1f88-4cc3-955b-3b169151310d\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "The trees here are relatively sparse, and they don't hinder the movement of the infantry.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The trees here are relatively sparse, and they don't hinder the movement of the infantry.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2025-03-16T02:28:56",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1742092136898",
+    "dcterms:modified" : "2025-03-16T02:29:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5941,4356,118,388"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5940.77033,4356.19913h58.81818v0h58.81818v194.09091v194.09091h-58.81818h-58.81818v-194.09091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_7dfbc234-6f6a-4cba-b265-e7e58d470d1c\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"13.57265\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaName",
+      "@type" : "oa:Tag",
+      "chars" : "AreaName"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Biloski District (Translate by its pronouciation, now a place in Russia)",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Biloski District (Translate by its pronouciation, now a place in Russia)</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-10T01:58:43",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741571923699",
+    "dcterms:modified" : "2025-03-10T01:58:43",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5776,1037,192,669"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5775.69954,1036.57436h96.19709v0h96.19709v334.66109v334.66109h-96.19709h-96.19709v-334.66109z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_a97c767c-ba65-4f2a-86ae-38192479d608\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Roads near this place can be used for transportation.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Roads near this place can be used for transportation.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-10T02:01:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741572065133",
+    "dcterms:modified" : "2025-03-10T02:01:05",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3419,305,135,262"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3418.98184,304.95468h67.36364v0h67.36364v131v131h-67.36364h-67.36364v-131z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b25ebde8-23dc-4c45-81a9-a50e369559b8\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Forest",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Forest</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-10T01:59:06",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741571946995",
+    "dcterms:modified" : "2025-03-10T01:59:06",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5664,1440,100,242"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5663.59582,1439.89335h50.09091v0h50.09091v121v121h-50.09091h-50.09091v-121z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5a1eb451-a370-44bb-84ef-e3f3ca45003b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Thick forest (near main peak of the Lesser Khingan Mountains): thick forest, dense lower branches, intertwined fallen trees, white birches, black birches; transportation needs to stay within roads only.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Thick forest (near main peak of the Lesser Khingan Mountains): thick forest, dense lower branches, intertwined fallen trees, white birches, black birches; transportation needs to stay within roads only.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T15:53:40",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741708420920",
+    "dcterms:modified" : "2025-03-11T15:53:40",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3786,2209,264,613"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3785.96838,2209.30439h131.8368v0h131.8368v306.28587v306.28587h-131.8368h-131.8368v-306.28587z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f158f50e-0e56-4cd3-9780-80709098b067\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Gently sloping plateau with trees such as white birch and red pine, ranging from 3 to 10 meters in height.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Gently sloping plateau with trees such as white birch and red pine, ranging from 3 to 10 meters in height.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T15:32:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741707173874",
+    "dcterms:modified" : "2025-03-11T15:32:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4718,1514,286,520"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4718.32189,1514.3633h143.16727v0h143.16727v260.2v260.2h-143.16727h-143.16727v-260.2z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d58aa3cf-76c0-4f77-a936-924d1533b73b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Large trees and dense undergrowth make troop movement difficult.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Large trees and dense undergrowth make troop movement difficult.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-10T02:35:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741574118264",
+    "dcterms:modified" : "2025-03-10T02:35:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2235,2918,77,552"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2235.28293,2917.87023h38.37955v0h38.37955v275.92057v275.92057h-38.37955h-38.37955v-275.92057z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b8d4721c-ccba-49a3-8828-05e2ebb5c02e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "400-meter-width, knee-deep water, hard to transport supplies.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>400-meter-width, knee-deep water, hard to transport supplies.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-10T02:24:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741573454140",
+    "dcterms:modified" : "2025-03-10T02:24:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1485,2094,145,225"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1484.81639,2094.19656h72.36364v0h72.36364v112.36364v112.36364h-72.36364h-72.36364v-112.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8c0fcd0c-ca4e-4515-84de-a9f0de22fc09\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Oak trees and shrub forest.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Oak trees and shrub forest.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T15:37:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741707478067",
+    "dcterms:modified" : "2025-03-11T15:37:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4738,2132,81,305"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4737.66187,2132.31585h40.58691v0h40.58691v152.74982v152.74982h-40.58691h-40.58691v-152.74982z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1e3e480c-dcff-43b4-b150-25e7e5187536\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Wetland: important millitary strategic position",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Wetland: important millitary strategic position</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T18:56:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741719394070",
+    "dcterms:modified" : "2025-03-11T18:56:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4087,3797,156,171"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4087.16645,3797.0393h77.81818v0h77.81818v85.54545v85.54545h-77.81818h-77.81818v-85.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_09107d11-ad79-44e0-bfce-3e31c24ffc82\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "5~6-meter-wide natural rock road",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>5~6-meter-wide natural rock road</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2025-03-11T18:49:42",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741718982429",
+    "dcterms:modified" : "2025-03-11T18:52:39",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5527,3599,114,211"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5526.77896,3598.74513h56.90909v0h56.90909v105.54545v105.54545h-56.90909h-56.90909v-105.54545z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_ed6ecf3d-1dd9-46f6-9211-80f1961d1d3d\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"24.8832\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Nearby-dense forest: Oak trees, white birches, hard for horses with supplies to travel.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Nearby-dense forest: Oak trees, white birches, hard for horses with supplies to travel.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-16T02:23:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1742091781466",
+    "dcterms:modified" : "2025-03-16T02:23:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4999,4504,133,392"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4999.24922,4895.91311h66.45455v0h66.45455v-196.01818v-196.01818h-66.45455h-66.45455v196.01818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1e870453-ab85-4ec6-b8a0-d8eb1603a0e9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "A mountain here, dense forests around the mountain, no barriers south through north.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A mountain here, dense forests around the mountain, no barriers south through north.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-16T02:37:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1742092637155",
+    "dcterms:modified" : "2025-03-16T02:37:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2305,5038,300,647"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2305.36363,5037.66681h149.93002v0h149.93002v323.48627v323.48627h-149.93002h-149.93002v-323.48627z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_dd18296e-2a1d-4ea8-9e14-9076f305a996\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "This is an abandoned pit; it is not being mined.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>This is an abandoned pit; it is not being mined.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-16T02:25:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1742091959818",
+    "dcterms:modified" : "2025-03-16T02:25:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5777,4360,62,227"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5776.7787,4360.01832h31v0h31v113.27273v113.27273h-31h-31v-113.27273z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_c1bbf0f9-25bb-46cc-be29-9a93ecad4278\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Cannot pass through.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Cannot pass through.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-16T02:17:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1742091437596",
+    "dcterms:modified" : "2025-03-16T02:17:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3654,4898,120,238"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3654.24789,4898.40079h59.90909v0h59.90909v118.81818v118.81818h-59.90909h-59.90909v-118.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6eaff3e7-36b3-492b-ad53-b746c52ae7f5\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Suspension bridge",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Suspension bridge</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-16T02:38:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1742092681068",
+    "dcterms:modified" : "2025-03-16T02:38:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4502,2843,67,115"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4501.55365,2842.56543h33.57437v0h33.57437v57.32652v57.32652h-33.57437h-33.57437v-57.32652z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_deab9fe2-7029-447a-89e5-b716bd2d6d61\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "A farmhouse, about the size of 60 horses",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A farmhouse, about the size of 60 horses</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-10T01:49:20",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741571360669",
+    "dcterms:modified" : "2025-03-10T01:49:20",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4982,910,56,374"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4981.51884,910.30634h28.13652v0h28.13652v187.079v187.079h-28.13652h-28.13652v-187.079z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7c5778e7-69e7-4701-aa40-bdb54295b3c7\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Road Width: 7 meters",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Road Width: 7 meters</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-10T01:46:58",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741571218717",
+    "dcterms:modified" : "2025-03-10T01:46:58",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5428,682,72,237"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5427.72078,681.58422h35.88981v0h35.88981v118.46237v118.46237h-35.88981h-35.88981v-118.46237z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_8fa304dd-0e30-4383-9c7e-6dbc21c71d18\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Shrub Forest of Combined kinds of trees: dense shrubs grow 1-2 meters tall under big tree shelters; hard to get through for soldiers&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Shrub Forest of Combined kinds of trees: dense shrubs grow 1-2 meters tall under big tree shelters; hard to get through for soldiers&nbsp;</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Forest",
+      "@type" : "oa:Tag",
+      "chars" : "Forest"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2025-03-10T01:51:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741571519818",
+    "dcterms:modified" : "2025-03-10T02:09:41",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4783,668,159,531"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4783.16231,667.55089h79.71784v0h79.71784v265.49193v265.49193h-79.71784h-79.71784v-265.49193z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_f4ff1f57-c571-4b5d-9d88-5ba9722a74ba\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"42.99817\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Grassland with thick grass: can be only walked through by a single soldier; hard to get through by other kinds of military teams.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Grassland with thick grass: can be only walked through by a single soldier; hard to get through by other kinds of military teams.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-10T02:10:53",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741572653109",
+    "dcterms:modified" : "2025-03-10T02:10:53",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2271,1199,173,527"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2270.95546,1198.86682h86.61455v0h86.61455v263.34182v263.34182h-86.61455h-86.61455v-263.34182z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4ec09ad5-5a59-4864-b436-da51fd06ca92\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Shrub Forest with Combined Kinds of Trees: hard for a single soldier to walk through\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Shrub Forest with Combined Kinds of Trees: hard for a single soldier to walk through</p>\n<p>&nbsp;</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2025-03-10T01:53:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741571624566",
+    "dcterms:modified" : "2025-03-10T02:09:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4729,219,164,283"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4729.09396,218.99071h81.87327v0h81.87327v141.53387v141.53387h-81.87327h-81.87327v-141.53387z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_c9a9e6c9-c3c4-488f-b3dd-000392d793ab\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"42.99817\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Places around here are suitable for planes to take off.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Places around here are suitable for planes to take off.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-10T02:06:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741572414507",
+    "dcterms:modified" : "2025-03-10T02:06:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2638,1293,94,362"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2637.77928,1292.58248h47.18473v0h47.18473v181.02618v181.02618h-47.18473h-47.18473v-181.02618z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9389a8e7-41e7-4964-8971-a585a8179ca3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaName",
+      "@type" : "oa:Tag",
+      "chars" : "AreaName"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "JiaYin River-LianJiang Village: thick forest, shrub forest, fallen trees, wetlands, steep slopes; hard to get through.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>JiaYin River-LianJiang Village: thick forest, shrub forest, fallen trees, wetlands, steep slopes; hard to get through.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T16:03:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741709034091",
+    "dcterms:modified" : "2025-03-11T16:03:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4124,1752,219,414"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4124.47153,1751.68415h109.54545v0h109.54545v207.18182v207.18182h-109.54545h-109.54545v-207.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_41d86de6-650c-49e3-84c4-17d465ef4b72\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaName",
+      "@type" : "oa:Tag",
+      "chars" : "AreaName"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "HeiLongJiang-LianJiang Village: thinnest part 200-meter-width, hard for millitary to pass through",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>HeiLongJiang-LianJiang Village: thinnest part 200-meter-width, hard for millitary to pass through</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T15:56:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741708579837",
+    "dcterms:modified" : "2025-03-11T15:56:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4743,3248,340,561"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4743.34241,3247.54058h169.93023v0h169.93023v280.30696v280.30696h-169.93023h-169.93023v-280.30696z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e318a4dc-d021-415f-94ef-a748923993d2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Width of valley here is 30 meters, knee-deep water, difficult to transport supplies.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Width of valley here is 30 meters, knee-deep water, difficult to transport supplies.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2025-03-10T02:19:05",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741573145229",
+    "dcterms:modified" : "2025-03-10T02:21:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1262,1566,156,188"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1262.10327,1565.72602h77.992v0h77.992v94.03709v94.03709h-77.992h-77.992v-94.03709z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,0,0.74902,1],&quot;editable&quot;:true}\" id=\"rectangle_1e25cd7c-e6c3-4fe0-9e17-0103965d9743\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"10\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The width of the cliff for climbing is 20-30 meter, making climbing difficult.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The width of the cliff for climbing is 20-30 meter, making climbing difficult.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T16:12:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741709539745",
+    "dcterms:modified" : "2025-03-11T16:12:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5363,2427,102,290"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5363.35544,2717.05591h51v0h51v-144.90909v-144.90909h-51h-51v144.90909z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1d693df1-7e49-4af4-a312-9052ba0487d6\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Extremely difficult to pass through places near here.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Extremely difficult to pass through places near here.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T15:34:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741707270668",
+    "dcterms:modified" : "2025-03-11T15:34:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4495,1872,170,242"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4494.80007,1872.17232h84.78182v0h84.78182v120.78182v120.78182h-84.78182h-84.78182v-120.78182z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f1414223-dc95-4d37-9421-eda4020c409b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Steep slop, fallen trees",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Steep slop, fallen trees</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T18:39:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741718385172",
+    "dcterms:modified" : "2025-03-11T18:39:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3240,4829,83,174"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3239.58422,4829.40087h41.36364v0h41.36364v87.18182v87.18182h-41.36364h-41.36364v-87.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_f3d4f590-e802-438c-83c0-01941199cbbc\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A long strip of white birches and shrub.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A long strip of white birches and shrub.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T15:39:36",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741707576626",
+    "dcterms:modified" : "2025-03-11T15:39:36",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4014,1594,103,469"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4013.56694,1594.24718h51.26909v0h51.26909v234.28v234.28h-51.26909h-51.26909v-234.28z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d85330ca-3f3b-4cc5-a8e2-f5d80aef8a18\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Wetland, hard for horses to ride through\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Wetland, hard for horses to ride through</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T18:55:00",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741719300424",
+    "dcterms:modified" : "2025-03-11T18:55:00",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3552,4002,114,144"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3552.19162,4002.37984h57.18182v0h57.18182v71.90909v71.90909h-57.18182h-57.18182v-71.90909z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_82bf518a-d082-422d-8a93-2747ba2b78a9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "500-meter-long steep slope, hard to ride through",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>500-meter-long steep slope, hard to ride through</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T19:09:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741720155315",
+    "dcterms:modified" : "2025-03-11T19:09:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3964,4711,93,228"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3964.06477,4938.67835h46.33597v0h46.33597v-113.97575v-113.97575h-46.33597h-46.33597v113.97575z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_131c5d61-b06e-4bb9-8f9d-28acd870199a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaName",
+      "@type" : "oa:Tag",
+      "chars" : "AreaName"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Small Taiping Waterway Trench",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Small Taiping Waterway Trench</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T19:12:48",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741720368381",
+    "dcterms:modified" : "2025-03-11T19:12:48",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4430,4363,187,72"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4430.37451,4363.13643h93.72727v0h93.72727v36v36h-93.72727h-93.72727v-36z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_5ca049f9-b0be-452c-9174-a659c02ec9d9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDecription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDecription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "construction site\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>construction site</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-16T02:25:17",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1742091917390",
+    "dcterms:modified" : "2025-03-16T02:25:17",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5171,5180,47,158"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5170.92945,5180.41554h23.25455v0h23.25455v78.89091v78.89091h-23.25455h-23.25455v-78.89091z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_e0d067a6-d898-4250-be3f-95a83620feac\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaName",
+      "@type" : "oa:Tag",
+      "chars" : "AreaName"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Farm Land",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Farm Land</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-10T01:54:32",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741571672450",
+    "dcterms:modified" : "2025-03-10T01:54:32",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4072,341,152,246"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4178.4354,340.59834c-22.4091,0 -27.39017,15.90474 -44.19304,24.30617c-1.31758,0.65879 -3.37766,-1.04164 -4.4193,0c-1.16459,1.16459 -1.04506,3.25472 -2.20965,4.4193c-0.52082,0.52082 -1.88026,-0.65879 -2.20965,0c-0.65879,1.31758 0.81713,3.19361 0,4.4193c-1.72821,2.59231 -10.71089,8.50123 -13.25791,11.04826c-2.32918,2.32918 -2.44293,6.20344 -4.4193,8.83861c-3.38389,4.51185 -10.1791,6.94317 -13.25791,11.04826c-1.82213,2.4295 -0.5251,6.31177 -2.20965,8.83861c-2.77229,4.15843 -8.83185,6.61543 -11.04826,11.04826c-1.73366,3.46732 1.22345,9.58757 0,13.25791c-7.41074,22.23222 -8.83861,42.11495 -8.83861,66.28956c0,5.26347 -1.96176,38.05986 0,41.98339c0.93167,1.86334 3.48763,2.55596 4.4193,4.4193c0.88386,1.76772 -0.88386,4.86123 0,6.62896c1.34334,2.68668 3.14897,6.29794 4.4193,8.83861c0.93167,1.86334 3.76051,2.44293 4.4193,4.4193c0.46584,1.39751 -0.81713,3.19361 0,4.4193c1.4731,2.20965 4.75111,2.54146 6.62896,4.4193c1.4731,1.4731 3.48763,2.55596 4.4193,4.4193c0.3294,0.65879 -0.65879,1.88026 0,2.20965c3.05495,1.52748 12.17829,0 15.46756,0c3.89631,0 9.49235,0.94139 13.25791,0c8.85106,-2.21276 30.3672,-23.45428 35.35443,-30.93513c1.82716,-2.74074 2.44293,-6.20344 4.4193,-8.83861c3.71222,-4.94962 9.5457,-8.30829 13.25791,-13.25791c5.49102,-7.32136 9.72718,-14.92105 15.46756,-22.09652c4.20378,-5.25473 4.06308,-12.54546 6.62896,-17.67722c0.93167,-1.86334 3.26371,-2.68591 4.4193,-4.4193c2.52789,-3.79183 4.03526,-13.35439 6.62896,-17.67722c0.53592,-0.8932 1.95702,-1.19911 2.20965,-2.20965c0.8932,-3.5728 -0.72225,-7.43702 0,-11.04826c1.65205,-8.26026 5.03378,-16.33027 6.62896,-24.30617c2.69974,-13.49872 2.20965,-28.02635 2.20965,-41.98339c0,-10.82477 3.6829,-31.67154 -4.4193,-39.77374c-8.104,-8.104 -26.0857,-8.83861 -37.56409,-8.83861\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;deleteIcon&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"smooth_path_3b5eae68-04ee-4140-b4f0-495d6788c310\" fill=\"none\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The area around these two places has a wide field of view, making it convenient for lookout.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The area around these two places has a wide field of view, making it convenient for lookout.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-10T02:02:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741572146073",
+    "dcterms:modified" : "2025-03-10T02:02:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3133,575,122,323"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3132.75923,574.83782h60.94589v0h60.94589v161.60975v161.60975h-60.94589h-60.94589v-161.60975z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9a368689-ef0e-4d77-8727-5c6b10299d2e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "300 meter width, horse belly deep water, hard to transport supplies",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>300 meter width, horse belly deep water, hard to transport supplies</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-10T02:23:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741573399246",
+    "dcterms:modified" : "2025-03-10T02:23:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1570,1743,166,198"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1569.66767,1743.39126h82.81818v0h82.81818v99.18182v99.18182h-82.81818h-82.81818v-99.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_df0fe741-2d95-496b-8539-cd5e1b01c460\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Muddy terrain and fallen trees make walking difficult.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Muddy terrain and fallen trees make walking difficult.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T15:29:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741706971225",
+    "dcterms:modified" : "2025-03-11T15:29:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2826,3883,155,241"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2826.3749,3883.06141h77.6505v0h77.6505v120.64957v120.64957h-77.6505h-77.6505v-120.64957z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_623bf889-55f7-4edf-8ff6-e04ef6f29e87\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dense mixed forest: white birches, oak trees",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dense mixed forest: white birches, oak trees</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T16:13:01",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741709581367",
+    "dcterms:modified" : "2025-03-11T16:13:01",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5860,2259,168,257"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5860.2228,2258.84803h83.90909v0h83.90909v128.63636v128.63636h-83.90909h-83.90909v-128.63636z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4bc7a569-967c-4a27-bab1-bab7b6439b4c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "300-meter-long steep lope.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>300-meter-long steep lope.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T16:01:34",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741708894816",
+    "dcterms:modified" : "2025-03-11T16:01:34",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4330,2520,117,158"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4329.60303,2520.47089h58.6v0h58.6v78.89091v78.89091h-58.6h-58.6v-78.89091z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_cb879d75-abd4-4479-9bfb-b63041345ac0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Fire-Burning Camp, Old trench, Jielie River Upper region: Shrub forest, wetland, steep slopes; with some road construction, it can be used as a cavalry regiment&rsquo;s combat route.&nbsp;Passage through this area should be strictly prohibited during the rising water period.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Fire-Burning Camp, Old trench, Jielie River Upper region: Shrub forest, wetland, steep slopes; with some road construction, it can be used as a cavalry regiment&rsquo;s combat route.&nbsp;Passage through this area should be strictly prohibited during the rising water period.</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaName",
+      "@type" : "oa:Tag",
+      "chars" : "AreaName"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2025-03-10T02:27:04",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741573624875",
+    "dcterms:modified" : "2025-03-11T19:04:56",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1938,2814,188,686"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1938.08324,2813.87529h93.83696v0h93.83696v343.03089v343.03089h-93.83696h-93.83696v-343.03089z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_218119a0-b8ad-4e96-9e37-33371b37a3ec\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"11.62994\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Permanent wetland, 10-meter-deep water level：the area has abundant aquatic plants, making cavalry passage feasible, but it is inconvenient to pass during the rainy season.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Permanent wetland, 10-meter-deep water level：the area has abundant aquatic plants, making cavalry passage feasible, but it is inconvenient to pass during the rainy season.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T18:46:54",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741718814669",
+    "dcterms:modified" : "2025-03-11T18:46:54",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6339,2495,159,687"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6339.39199,2495.14865h79.54545v0h79.54545v343.45818v343.45818h-79.54545h-79.54545v-343.45818z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_678d2650-d9f6-4711-9a1b-dc2d884c8a68\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaName",
+      "@type" : "oa:Tag",
+      "chars" : "AreaName"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Taiping trench-Xing East Road: steep slope, small stream, wetland, can be used for wagons and cars to pass through.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Taiping trench-Xing East Road: steep slope, small stream, wetland, can be used for wagons and cars to pass through.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T19:08:19",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741720099720",
+    "dcterms:modified" : "2025-03-11T19:08:19",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4248,5089,203,442"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4247.7915,5088.75999h101.39346v0h101.39346v220.85608v220.85608h-101.39346h-101.39346v-220.85608z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_85034c09-9e63-4af9-b7fd-3a17550ccfe0\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dense forest, wetland, fallen trees, steep slopes, hard to ride through",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dense forest, wetland, fallen trees, steep slopes, hard to ride through</p>"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:commenting", "oa:tagging" ],
+    "dcterms:created" : "2025-03-11T18:38:38",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741718318451",
+    "dcterms:modified" : "2025-03-11T18:39:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2742,5044,197,445"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2742.1707,5044.26268h98.58918v0h98.58918v222.42648v222.42648h-98.58918h-98.58918v-222.42648z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null}\" id=\"rectangle_9b4d1f38-72d1-4a7f-94bf-a386d2d72102\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Lower-3-Street, JinMan ditch: thick shrub forest; hard for millitary to walk through; lots of larches, generally rugged and steep terrain.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Lower-3-Street, JinMan ditch: thick shrub forest; hard for millitary to walk through; lots of larches, generally rugged and steep terrain.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T15:27:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741706866471",
+    "dcterms:modified" : "2025-03-11T19:05:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2753,3197,316,503"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2752.70735,3197.42073h157.81571v0h157.81571v251.36672v251.36672h-157.81571h-157.81571v-251.36672z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;annotation&quot;:null,&quot;nonHoverStrokeColor&quot;:[&quot;Color&quot;,1,0,0],&quot;editable&quot;:true}\" id=\"rectangle_fa285dca-5eb4-4ff0-957c-32eded9e0e66\" fill-opacity=\"0.00001\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"25.58586\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaName",
+      "@type" : "oa:Tag",
+      "chars" : "AreaName"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Between Jin waterway trench and Taiping waterway Trench:&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Between Jin waterway trench and Taiping waterway Trench:&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T19:11:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741720278916",
+    "dcterms:modified" : "2025-03-11T19:11:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3881,3841,223,414"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4104.36806,3840.86621h-111.73233v0h-111.73233v206.83464v206.83464h111.73233h111.73233v-206.83464z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_395c4e0f-5ed2-4b0d-8658-32729b4452e1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Area",
+      "@type" : "oa:Tag",
+      "chars" : "Area"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Village name unknown",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Village name unknown</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-16T02:31:13",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1742092273560",
+    "dcterms:modified" : "2025-03-16T02:31:13",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4969,4330,52,107"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4969.13309,4330.13731h26v0h26v53.72727v53.72727h-26h-26v-53.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_364e9f75-d0c3-40d9-b036-67382a2e4aa3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dense forest: mainly larches.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dense forest: mainly larches.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-03-16T02:38:49",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1742092729237",
+    "dcterms:modified" : "2025-03-16T02:38:49",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=6139,3226,153,442"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M6138.63775,3226.27542h76.73541v0h76.73541v220.877v220.877h-76.73541h-76.73541v-220.877z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_76bb589a-4448-4a11-ab4f-02db1821197e\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "A lot of Larches",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A lot of Larches</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-10T02:13:26",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741572806120",
+    "dcterms:modified" : "2025-03-10T02:13:26",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1376,804,66,456"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1376.1142,803.62021h33.04655v0h33.04655v228.15345v228.15345h-33.04655h-33.04655v-228.15345z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_42ba383f-4273-49a2-99b2-cc6edffceb4b\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaName",
+      "@type" : "oa:Tag",
+      "chars" : "AreaName"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "River JiaYin: The river water is suitable for drinking, so there are no issues with the water supply. However, in winter, it may not be accessible due to possible freezing.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>River JiaYin: The river water is suitable for drinking, so there are no issues with the water supply. However, in winter, it may not be accessible due to possible freezing.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T15:43:28",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741707808258",
+    "dcterms:modified" : "2025-03-11T15:43:28",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=1864,4239,282,517"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M1864.04681,4239.21436h140.81091v0h140.81091v258.62909v258.62909h-140.81091h-140.81091v-258.62909z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_27636cab-a2df-47b0-9e24-5330f118ecfa\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "During the freezing period, vehicles cannot drive on the river surface near this area.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>During the freezing period, vehicles cannot drive on the river surface near this area.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T15:58:46",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741708726663",
+    "dcterms:modified" : "2025-03-11T15:58:46",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5227,2962,143,283"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5227.09428,2961.93918h71.45455v0h71.45455v141.45455v141.45455h-71.45455h-71.45455v-141.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_93234009-6ef2-4d87-a11f-4ad0e45defe2\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dense mixed forest: white birches, oak trees, larches.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dense mixed forest: white birches, oak trees, larches.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T16:07:44",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741709264020",
+    "dcterms:modified" : "2025-03-11T16:07:44",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5932,2737,201,323"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5931.55488,2736.67306h100.27273v0h100.27273v161.36364v161.36364h-100.27273h-100.27273v-161.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_b275731e-b7de-4ea2-8824-3351182ef604\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaName",
+      "@type" : "oa:Tag",
+      "chars" : "AreaName"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "LianJiang Village",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>LianJiang Village</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T16:04:24",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741709064292",
+    "dcterms:modified" : "2025-03-11T16:04:24",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4221,1373,107,136"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4220.55798,1373.48415h53.62545v0h53.62545v67.76364v67.76364h-53.62545h-53.62545v-67.76364z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_537ec5d3-a6ba-4f22-b064-c6c78d4af7a1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Single soldier riding horse can only pass through here inside roads.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Single soldier riding horse can only pass through here inside roads.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T18:51:35",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741719095391",
+    "dcterms:modified" : "2025-03-11T18:51:35",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5517,4421,113,857"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5517.48449,4421.25739h56.64788v0h56.64788v428.53862v428.53862h-56.64788h-56.64788v-428.53862z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4d175e7e-caf6-4b3f-9173-34da74fc0a84\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Flourishing willow trees on west coast&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Flourishing willow trees on west coast&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T18:48:15",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741718895117",
+    "dcterms:modified" : "2025-03-11T18:48:15",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5880,2581,111,145"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5880.08695,2580.69748h55.54545v0h55.54545v72.36364v72.36364h-55.54545h-55.54545v-72.36364z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_7a976331-6e86-4731-8202-dc332b4f49f3\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Wet roads, hard for horses to get through.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Wet roads, hard for horses to get through.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T18:40:30",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741718430504",
+    "dcterms:modified" : "2025-03-11T18:40:30",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=2995,5310,127,167"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M2994.95817,5310.37863h63.72727v0h63.72727v83.72727v83.72727h-63.72727h-63.72727v-83.72727z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_3d699b90-f50a-4a52-a363-2119674948f1\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "5-meter-wide natural road",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>5-meter-wide natural road</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T18:52:14",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741719134169",
+    "dcterms:modified" : "2025-03-11T18:52:14",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4831,4567,110,174"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4830.71643,4567.41039h55v0h55v87.18182v87.18182h-55h-55v-87.18182z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_d09f0431-b86b-4607-b4ed-2d2bfb674298\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Dense forest: coniferous forest and deciduous forest, dense mixed forest, hard to pass through",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Dense forest: coniferous forest and deciduous forest, dense mixed forest, hard to pass through</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-11T18:58:59",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1741719539492",
+    "dcterms:modified" : "2025-03-11T18:58:59",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=3772,4209,202,463"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M3772.03854,4209.45293h101.14545v0h101.14545v231.4v231.4h-101.14545h-101.14545v-231.4z\" data-paper-data=\"{&quot;strokeWidth&quot;:6,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4e526d99-e201-40ac-8bdd-64ecc229f33c\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"6\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "The road is bumpy and uneven, making it difficult for carriages to pass, but with some minor construction, it can be transformed into a road that carriages can travel on.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>The road is bumpy and uneven, making it difficult for carriages to pass, but with some minor construction, it can be transformed into a road that carriages can travel on.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-16T02:20:31",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1742091631101",
+    "dcterms:modified" : "2025-03-16T02:20:31",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=5689,4630,230,505"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M5689.09364,4630.31806h114.89091v0h114.89091v252.34545v252.34545h-114.89091h-114.89091v-252.34545z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_9df12ea7-5b8c-49c0-a4a0-8f9b4c2980c9\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "After some minor construction, it becomes suitable for a group of horses carrying heavy loads to pass through.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>After some minor construction, it becomes suitable for a group of horses carrying heavy loads to pass through.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-16T02:24:45",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1742091885296",
+    "dcterms:modified" : "2025-03-16T02:24:45",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4608,4977,112,325"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4607.53112,4976.63602h56.09091v0h56.09091v162.45455v162.45455h-56.09091h-56.09091v-162.45455z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1f5f5c86-9116-4262-ba5c-60f44e68053a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaType",
+      "@type" : "oa:Tag",
+      "chars" : "AreaType"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Wetland: construction needed.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Wetland: construction needed.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-16T02:14:55",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1742091295081",
+    "dcterms:modified" : "2025-03-16T02:14:55",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4503,4175,102,146"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4502.60955,4174.75207h51v0h51v72.81818v72.81818h-51h-51v-72.81818z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_1da9388b-0eae-42c6-ac26-5eb5dd1b6524\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#00bfff\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "Japanese",
+      "@type" : "oa:Tag",
+      "chars" : "Japanese"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "AreaDescription",
+      "@type" : "oa:Tag",
+      "chars" : "AreaDescription"
+    }, {
+      "http://dev.llgc.org.uk/sas/full_text" : "Not sure if this is a route here.",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>Not sure if this is a route here.</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:tagging", "oa:commenting" ],
+    "dcterms:created" : "2025-03-16T02:32:47",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1742092367288",
+    "dcterms:modified" : "2025-03-16T02:32:47",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4929,4440,65,192"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4929.37552,4440.31913h32.36364v0h32.36364v96v96h-32.36364h-32.36364v-96z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_4d9d99bf-5904-4b42-b124-3db03be3a2ef\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  }, {
+    "resource" : [ {
+      "http://dev.llgc.org.uk/sas/full_text" : "A Lot of Fallen Trees here\n&nbsp;",
+      "@type" : "dctypes:Text",
+      "format" : "text/html",
+      "chars" : "<p>A Lot of Fallen Trees here</p>\n<p>&nbsp;</p>"
+    } ],
+    "@type" : "oa:Annotation",
+    "dcterms:creator" : "https://dev.gdmrdigital.com/user/1240244679/112450713200519099591",
+    "motivation" : [ "oa:commenting" ],
+    "dcterms:created" : "2025-03-16T02:38:18",
+    "@id" : "https://dev.gdmrdigital.com/annotation/anno/1742092698281",
+    "dcterms:modified" : "2025-03-16T02:38:18",
+    "@context" : "file:/usr/local/tomcat/webapps/ROOT/contexts/iiif-2.0.json",
+    "on" : [ {
+      "within" : {
+        "@type" : "sc:Manifest",
+        "@id" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/manifest"
+      },
+      "@type" : "oa:SpecificResource",
+      "selector" : {
+        "default" : {
+          "@type" : "oa:FragmentSelector",
+          "value" : "xywh=4288,2715,74,124"
+        },
+        "item" : {
+          "@type" : "oa:SvgSelector",
+          "value" : "<svg xmlns='http://www.w3.org/2000/svg'><path xmlns=\"http://www.w3.org/2000/svg\" d=\"M4288.0105,2714.98247h36.96753v0h36.96753v62.07695v62.07695h-36.96753h-36.96753v-62.07695z\" data-paper-data=\"{&quot;strokeWidth&quot;:1,&quot;rotation&quot;:0,&quot;deleteIcon&quot;:null,&quot;rotationIcon&quot;:null,&quot;group&quot;:null,&quot;editable&quot;:true,&quot;annotation&quot;:null}\" id=\"rectangle_6a9ba50b-e38b-4722-8de1-3a4ab07c231a\" fill-opacity=\"0\" fill=\"#00bfff\" fill-rule=\"nonzero\" stroke=\"#ff0000\" stroke-width=\"1\" stroke-linecap=\"butt\" stroke-linejoin=\"miter\" stroke-miterlimit=\"10\" stroke-dasharray=\"\" stroke-dashoffset=\"0\" font-family=\"none\" font-weight=\"none\" font-size=\"none\" text-anchor=\"none\" style=\"mix-blend-mode: normal\"/></svg>"
+        },
+        "@type" : "oa:Choice"
+      },
+      "full" : "https://hhfinals.dgah.sites.carleton.edu/mapping-layers/iiif/2/12/canvas/p1"
+    } ]
+  } ],
+  "@id" : "https://dev.gdmrdigital.com/annotations/1240244679/112450713200519099591/43a2d3dc41cd69f8d9c8fd314804d856.json",
+  "@context" : "http://iiif.io/api/presentation/2/context.json"
+}
